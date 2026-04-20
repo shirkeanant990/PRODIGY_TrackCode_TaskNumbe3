@@ -11,7 +11,7 @@ A Python based sentiment analysis project that process and analyze Twitter data 
 ---
 
 ## Dataset
-The dataset contains Twitter data with Null Heading columns so add the following columns:
+The dataset contains Twitter data with Null Heading columns added following columns:
 - `id` – Unique identifier  
 - `topic` – Topic or brand  
 - `sentiment` – Original sentiment label  
